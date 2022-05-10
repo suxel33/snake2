@@ -1,0 +1,16 @@
+
+   
+body {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: brown;
+}
+.board {
+    display: flex;
+    justify-content: center;
+}
+.start {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
